@@ -40,9 +40,17 @@ body {
   text-align: right;
   width: 48%;
 }
+
 .right {
   display: inline-block;
   text-align: right;
   margin-left: 10px;
   width: 45%;
+}
+
+.input-field {
+  width: 160px;
+  height: 25px;
+  border: 1px solid #acbed8;
+  border-radius: 3px;
 }
