@@ -62,3 +62,8 @@ form {
   border: 1px solid #acbed8;
   border-radius: 3px;
 }
+
+textarea {
+  border: 1px solid #acbed8;
+  border-radius: 3px;
+}
