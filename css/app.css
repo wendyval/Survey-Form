@@ -39,6 +39,10 @@ form {
   padding: 0 168px;
 }
 
+.form-section {
+  margin-bottom: 15px;
+}
+
 .left {
   display: inline-block;
   text-align: right;
