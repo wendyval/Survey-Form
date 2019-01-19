@@ -34,3 +34,9 @@ body {
   padding: 0 100px;
   margin-bottom: 30px;
 }
+
+.left {
+  display: inline-block;
+  text-align: right;
+  width: 48%;
+}
