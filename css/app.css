@@ -81,3 +81,8 @@ textarea {
   color: #122b29;
   border: 1px solid #e8ebf7;
 }
+
+button:hover {
+  background-color: #d1dbe9 !important;
+  border: 1px solid #d1dbe9 !important;
+}
