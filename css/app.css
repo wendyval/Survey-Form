@@ -68,6 +68,10 @@ textarea {
   border-radius: 3px;
 }
 
+#button {
+  text-align: center;
+}
+
 #submit {
   width: 70px;
   height: 30px;
