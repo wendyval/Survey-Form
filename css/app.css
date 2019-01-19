@@ -67,3 +67,13 @@ textarea {
   border: 1px solid #acbed8;
   border-radius: 3px;
 }
+
+#submit {
+  width: 70px;
+  height: 30px;
+  font: 16px 'Playfair Display', serif;
+  border-radius: 3px;
+  background-color: #e8ebf7;
+  color: #122b29;
+  border: 1px solid #e8ebf7;
+}
