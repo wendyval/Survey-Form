@@ -35,6 +35,10 @@ body {
   margin-bottom: 30px;
 }
 
+form {
+  padding: 0 168px;
+}
+
 .left {
   display: inline-block;
   text-align: right;
