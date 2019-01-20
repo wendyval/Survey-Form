@@ -58,6 +58,11 @@ body {
   border-radius: 3px;
 }
 
+.select-section {
+  margin: 0 auto;
+  width: 60%;
+}
+
 textarea {
   border: 1px solid #acbed8;
   border-radius: 3px;
