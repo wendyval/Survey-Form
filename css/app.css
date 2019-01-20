@@ -90,6 +90,34 @@ button:hover {
 
 #dropdown {
   height: 28px;
-  border: 1px solid #acbed8; 
+  border: 1px solid #acbed8;
   border-radius: 4px;
+}
+
+@media screen and (max-width: 833px) {
+  #select-section {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .left {
+    display: block;
+    text-align: left;
+  }
+  .right {
+    display: block;
+    margin-left: 0;
+    width: 100%;
+  }
+  #input-section {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .input-field {
+    width: 100%;
+  }
+  #description {
+    padding: 0 30px;
+  }
 }
