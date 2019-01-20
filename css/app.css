@@ -35,7 +35,7 @@ body {
 }
 
 .form-section {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .left {
@@ -58,7 +58,7 @@ body {
   border-radius: 3px;
 }
 
-.select-section {
+#select-section {
   margin: 0 auto;
   width: 60%;
 }
