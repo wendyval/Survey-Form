@@ -65,7 +65,8 @@ body {
 
 textarea {
   border: 1px solid #acbed8;
-  border-radius: 3px;
+  border-radius: 4px;
+  width: 100%;
 }
 
 #button {
